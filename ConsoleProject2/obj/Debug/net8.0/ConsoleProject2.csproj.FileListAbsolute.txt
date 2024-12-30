@@ -1,0 +1,14 @@
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/bin/Debug/net8.0/ConsoleProject2
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/bin/Debug/net8.0/ConsoleProject2.deps.json
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/bin/Debug/net8.0/ConsoleProject2.runtimeconfig.json
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/bin/Debug/net8.0/ConsoleProject2.dll
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/bin/Debug/net8.0/ConsoleProject2.pdb
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ConsoleProject2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ConsoleProject2.AssemblyInfoInputs.cache
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ConsoleProject2.AssemblyInfo.cs
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ConsoleProject2.csproj.CoreCompileInputs.cache
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ConsoleProject2.dll
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/refint/ConsoleProject2.dll
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ConsoleProject2.pdb
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ConsoleProject2.genruntimeconfig.cache
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ref/ConsoleProject2.dll

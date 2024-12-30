@@ -1,0 +1,4 @@
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/AbstractFactory/obj/Debug/net6.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/AbstractFactory/obj/Debug/net6.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/AbstractFactory/obj/Debug/net6.0/AbstractFactory.AssemblyInfo.cs
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/AbstractFactory/obj/Debug/net6.0/AbstractFactory.csproj.CoreCompileInputs.cache
