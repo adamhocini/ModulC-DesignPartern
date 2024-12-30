@@ -12,3 +12,4 @@
 /Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ConsoleProject2.pdb
 /Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ConsoleProject2.genruntimeconfig.cache
 /Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ref/ConsoleProject2.dll
+/Users/adamhocini/Desktop/Isitech/ESI1/DotNet/ConsoleProject2/obj/Debug/net8.0/ConsoleProject2.sourcelink.json

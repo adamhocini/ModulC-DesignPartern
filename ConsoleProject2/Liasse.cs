@@ -10,7 +10,6 @@ public abstract class Liasse
     {
         documents.Add(document);
     }
-
     // Méthode abstraite pour imprimer les documents
     public abstract void Imprime();
 }
